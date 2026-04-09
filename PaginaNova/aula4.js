@@ -26,3 +26,5 @@ if (forma === 'retangulo');{
     areaForma = alt * comp
 } else //else senao
 areaForma 
+
+teste 123
