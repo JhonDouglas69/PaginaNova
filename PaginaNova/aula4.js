@@ -19,12 +19,14 @@ console.log(area)
 //let = variavel local, funciona dentro do escopo 
 //definido dentro de uma estrutura , por exemplo (1)
 let forma ='retangulo';
-let al= 6;
+let alt= 6;
 let comp = 8;
+let areaForma; //let não permite 
 
-if (forma === 'retangulo');{
+if (forma === 'retangulo'){
     areaForma = alt * comp
-} else //else senao
-areaForma 
+} else {  //else senao
+    areaForma (alt * comp)/2
+};
 
-teste 123
+console.log(areaForma);

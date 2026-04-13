@@ -13,6 +13,6 @@ console.log(citacao + '*' + nome + '*');
 //template String ou Template Litereal 
 
 //Caracteres Especiais
-const cifrao 
-const aMaiusculo
-const tique
+//const cifrao 
+//const aMaiusculo
+//const tique

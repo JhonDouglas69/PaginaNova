@@ -6,7 +6,7 @@ console.log(meuNumero);
 const primeironumero = 1;
 const segundoNumero = 2;
 const operacaoMatematica = primeiroNumero + segundoNumero;
-console.log('resultado'operacaoMatematica);
+console.log('resultado operacaoMatematica');
  
 //ponto flutuante
 const numeroFluente = 3.3;
