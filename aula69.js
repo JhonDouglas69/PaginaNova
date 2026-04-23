@@ -1,0 +1,1 @@
+//console é uma ferramenta que pode ser encontrada nos navegadores e no NodeJS log éum registro
