@@ -5,8 +5,8 @@ if (idadeMax >= idadeMin )
 console.log("vc pode fazer a carteira de abilitaçao")
 
 //Operador Ternario                    
-//Condição ? resposta V : respostaF
-let permissao = idadeMin >= idadeMax ? sim : não;
+//Condição ? resposta V : resposta F
+let permissao = idadeMin >= idadeMax ? 'sim' : 'não';
 console.log(selecao == 'brasil'?'O hexa é nosso?':'Ficou pra proxima!');
 
 
@@ -18,6 +18,6 @@ console.log(selecao == 'brasil'?'O hexa é nosso?':'Ficou pra proxima!');
     1 item = 5,00 cada
     +3 itens = 4,00 cada
 */
-let itens = 3;
+let itens = 4;
 let preco = itens > 3 ? 4.00 : 5.00;
 console.log('valor da compra é de :'+ itens * preco);
