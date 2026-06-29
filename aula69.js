@@ -15,4 +15,4 @@ console.table();para visualizar de forma mais
 organizada e informações tabulares.
 console.time();e console.timeEnd(); //para temporarizar uma operação do codigo leva para se iniciada e concluida
 console.trace();//para exibir a stacktrack de todos os pontos 
-(ou seja arquivos chamados) por onde o codigo executado passou durante a execução
+(ou seja arquivos chamados) por onde o codigo executado passou durante a execução */
