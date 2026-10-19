@@ -18,13 +18,13 @@ function soma (){
 }
 
 soma ();
-/*
-function somaFixa  (num1,){
+
+function somaFixa  (num1,num2){
     console.log(num1 + num2);
 }
 
-somaFixa ();
-*/
+somaFixa (3,4);
+
 /*function somaDoisNumeros (num1,num2){
     //console.log(num1+num2);
     imprimeirotexto(num1+num2);
@@ -58,16 +58,29 @@ somaTresnumeros(1,1,'*');*/
 /*-------------------------*/
 
 function idade(dia,mes,ano){
-return 2026 - ano;
+    return 2026 - ano;
 
 }
 
-imprimeirotextoidade(idade(27,10,1984,));
-resultado = (idade 27,10,1984,);
+//imprimeirotextoidade(idade(27,10,1984,));
+resultado = (idade,27,10,1984);
 
 //carteira = -18;
 carteira = idade (27,10,1984) -18;
 
 console.log('tem cnh há '+carteira+'anos');
 
+/* OUTRAS FUNÇÔES
+math.round(): Arrendadondamento de um numero de ponto 
+flutuante para inteiro mais proximo.
+math.ceil(): Faz o arredondamento para o valor mais alto
+    ex: Math.ceil(5.2)retorna 6
+math.floor(): Faz o arredondamento para o valor mais baixo
+    ex: math.floor(5.2)retorna 5
+math.trunc(): Desconsidera os números decimais, o que retorna 
+    math.trunc(4.8) retorna 4
+math.pow(): Faz a exponenciação(4, retorna 4^2 = 16
+    math.sqrt(64) retorna 8
+math.min(): retornaomenor valor entre os   
+    */
 
