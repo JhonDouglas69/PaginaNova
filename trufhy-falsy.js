@@ -18,7 +18,7 @@ let varNull = null;
 console.log(teste);
 console.log(varNull);
 
-console.log(typeof teste);
+console.log(typeof Teste);
 console.log(typeof varNull);// aparece como objeto por ser um bug de js, deveria,na verdade, ser null
 
 console.log(typeof drogaPaga);

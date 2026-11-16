@@ -35,7 +35,7 @@ somaDoisNumeros (6, 7);
 //criar uma função calcular que rebeca 3 
 //parametros: 2 valores e a operação (+,-,*,/)
 
-/*function somaTresnumeros (num1,num2,op){
+function somaTresnumeros (num1,num2,op){
     
     if (op =='+'){
         imprimeirotexto(num1+num2);
@@ -50,10 +50,12 @@ somaDoisNumeros (6, 7);
         imprimeirotexto(num1/num2);
     }
 //console.log(imprimeirotexto); 
-imprimirtexto(imprimeirotexto);chama a funçao para exibir o resultado
+imprimirtexto(imprimeirotexto);//chama a funçao para exibir o resultado
+
+somaTresnumeros(12,2,'*');
 
 }
-somaTresnumeros(1,1,'*');*/
+
 
 /*-------------------------*/
 

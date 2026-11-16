@@ -1,0 +1,13 @@
+const notas = [10, 6, 8];
+
+//adicionar no Array
+notas.push(7); //setima nota
+console.log(notas);
+//Todo elemento adiciona a lista estará localizado na ultima posição
+notas.push(8.2)
+console.log(notas);
+
+const sum = (arg) => arg.reduce ((acc , curr) => acc + curr, 0 );
+const media = sum(notas) / notas.length
+console.log(`Amedia é: ${media.toFixed(2)}`);
+

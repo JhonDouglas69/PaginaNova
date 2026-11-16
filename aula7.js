@@ -10,7 +10,8 @@ ligado = 6767;
 //Linguagem MuliparaDigma - resolver o mesmo problema utilizando diferentes abordagens
 //ES6 /ES2015 - Versão do Js lançada em 2015 com atualização constante
 
-//Linguagem interpretada - vai analisando linha a linha diferente da linguagem compilada que gera um arquivo de maquina para executar. É mais rapido
+//Linguagem interpretada - vai analisando linha a linha diferente da linguagem compilada que gera
+// um arquivo de maquina para executar. É mais rapido
 
 //NodeJS - nao e uma linguagem (é o JS) 
 //interpretador de JS 
